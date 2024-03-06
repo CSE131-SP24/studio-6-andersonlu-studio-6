@@ -95,7 +95,6 @@ public class RecursiveMethods {
 			return;
 			
 		}
-		N++;
 		// FIXME
 	}
 
